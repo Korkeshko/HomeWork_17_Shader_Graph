@@ -723,7 +723,7 @@
     "m_VertexContext": {
         "m_Position": {
             "x": 514.0,
-            "y": 232.0
+            "y": 231.0
         },
         "m_Blocks": [
             {
@@ -3326,7 +3326,7 @@
     "m_RenderFace": 2,
     "m_AlphaClip": false,
     "m_CastShadows": true,
-    "m_ReceiveShadows": true,
+    "m_ReceiveShadows": false,
     "m_CustomEditorGUI": "",
     "m_SupportVFX": false
 }

@@ -3333,17 +3333,5 @@ PrefabInstance:
       propertyPath: m_Name
       value: Water
       objectReference: {fileID: 0}
-    - target: {fileID: 7832082338423084414, guid: 2111f00df8096444f81bffd0267c9c9c, type: 3}
-      propertyPath: m_CastShadows
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7832082338423084414, guid: 2111f00df8096444f81bffd0267c9c9c, type: 3}
-      propertyPath: m_StaticShadowCaster
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7832082338423084414, guid: 2111f00df8096444f81bffd0267c9c9c, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 6d5d21c8e9ea91d479ceb4aec9740d06, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2111f00df8096444f81bffd0267c9c9c, type: 3}
